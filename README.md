@@ -154,4 +154,4 @@ La forma general de resolver el problema de underfitting es añadiendo complejid
 
 Los proyectos fueron construidos utilizando las librerías [Scikit-Learn](https://scikit-learn.org/) y [Keras](https://keras.io/), ambos considerados frameworks de alto nivel, orientados a la experiencia de usuario y caracterizados por permitir realizar experimentaciones rápidas. 
 
-Cada proyecto fue realizado como parte del [Curso de Redes Neuronales en Keras y Scikit-Learn](https://platzi.com/cursos/keras-neural-networks/) de Platzi. Para más información y detalles, te invito a leer mis notas del curso en [Notion](https://www.notion.so/mariajosemv/Redes-neuronales-en-Keras-y-ScikitLearn-b8fcf479b0464021bb85d1b2a8863404). ✨
+✨
